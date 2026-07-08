@@ -106,28 +106,6 @@ FitZone-Gym-website/
 └── .gitignore
 ```
 
-## How to Run
-
-1. Download or clone the repository.
-2. Open the project folder.
-3. Double-click **index.html** or open it in any modern browser.
-
----
-
-## Screenshots
-
-Add screenshots here:
-
-### Desktop
-
-(Add desktop screenshot)
-
-### Mobile
-
-(Add mobile screenshot)
-
----
-
 ## Author
 
 **Jignesha Kadam**
